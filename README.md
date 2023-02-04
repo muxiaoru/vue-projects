@@ -1,4 +1,4 @@
-# form-validator
+# vue-projects
 
 ## Project setup
 ```
