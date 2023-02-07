@@ -60,5 +60,6 @@ p{
 }
 .text-icon{
   padding: 0 10px;
+  font-size: 40px;
 }
 </style>
