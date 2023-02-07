@@ -36,7 +36,10 @@ export default {};
   background: url("@/assets/img/briefbg.jpeg") center center/cover rgba(0, 0, 0, .5);
   min-width: 100vw;
   min-height: 100vh;
-  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 p{
   color: #a6a3a3;
@@ -44,7 +47,6 @@ p{
 .projects-container {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  align-items: center;
   justify-items: center;
   font-size: 18px;
 }
