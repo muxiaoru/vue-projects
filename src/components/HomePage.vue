@@ -33,7 +33,6 @@ export default {};
 
 <style lang="css" scoped>
 .container{
-  background: url("@/assets/img/briefbg.jpeg") center center/cover rgba(0, 0, 0, .5);
   min-width: 100vw;
   min-height: 100vh;
   display: flex;
